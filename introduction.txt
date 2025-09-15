@@ -1,2 +1,1 @@
-Hello seniors,
-This is Radhika gupta. I am from CS(Computer Science) branch. I am currently enhancing my web dev and dsa skills.I am from Modinagar. My hobbies are sketching and listening to my favourite music.
+skills:C++,HTML,CSS,JS,C  Hobbies:Sketching and listening to music
